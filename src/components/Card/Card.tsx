@@ -1,5 +1,6 @@
 import React, { useCallback, useMemo } from 'react';
 import './Card.scss';
+/* hello */
 
 export interface CardProps {
   card: { _id: string; cardType: string, text: string, pick?: number };
